@@ -1,6 +1,6 @@
 
 const axios = require('axios')
-
+const qs = require('qs')
 
 exports.jump = async(req, res) => {
     if(req.query.keyword){
