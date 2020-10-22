@@ -1,0 +1,9 @@
+{
+  "name": "ig_jump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.20.0-0"
+  }
+}
